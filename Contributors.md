@@ -1,6 +1,7 @@
 **Contributors**
 
 <!-- prettier-ignore-start -->
+- [Muhammad Sohaib Raza](https://github.com/SohaibRaza)
 - [Hari om Singh](https://github.com/Harixomxsingh)
 - [Amir](https://github.com/amir1611)
 - [Jack Roberts](https://github.com/JackRobs25)
